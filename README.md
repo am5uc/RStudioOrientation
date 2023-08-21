@@ -1,2 +1,2 @@
 # RStudioOrientation
-Repository liked to R
+Repository linked to R
